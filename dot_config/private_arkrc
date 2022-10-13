@@ -1,0 +1,18 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/,$HOME/.local/share/lutris/runners/wine/,$HOME/.local/share/fonts/,$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/.local/share/lutris/runners/wine,file:$HOME/.local/share/lutris/runners,file:$HOME/.local/share
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/.local/share/fonts/,file:$HOME/.local/share/lutris/runners/wine/,file:$HOME/.local/share/lutris/runners/,file:$HOME/.local/share/lutris/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+DP-0=DP-0
+DP-0 Height 3840x2160 DP-0=500
+DP-0 Width 3840x2160 DP-0=702
+DP-0 XPosition 3840x2160 DP-0=1548
+DP-0 YPosition 3840x2160 DP-0=785
+State=AAAA/wAAAAD9AAAAAAAAAr4AAAGSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=467,234

@@ -1,0 +1,9 @@
+# erstellt von KDE-Plasma, Mi. Okt. 12 15:18:04 2022
+#
+
+gtk-alternative-button-order = 1
+
+include "/usr/share/themes/Breeze/gtk-2.0/gtkrc"
+
+gtk-theme-name="Breeze"
+
